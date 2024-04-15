@@ -1,0 +1,27 @@
+.thermometer {
+    height: 300px;
+    width: 200px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.cold {
+    background-color: skyblue;
+}
+
+.hot {
+    background-color: red;
+}
+
+.indicator {
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: cornsilk;
+    border-radius: 25%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
