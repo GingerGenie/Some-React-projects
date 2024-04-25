@@ -1,0 +1,24 @@
+const cartItems = [
+    {
+      id: 'randomID_1',
+      title: 'Digma Linx A172 2G',
+      price: '548',
+      img: 'https://thumbs2.imgbox.com/e7/86/MYKtjxAC_t.png',
+      amount: 1,
+    },
+    {
+      id: 'randomID_3',
+      title: 'Xiaomi Redmi Note 2',
+      price: '2500',
+      img: 'https://images2.imgbox.com/4f/3d/WN3GvciF_o.png',
+      amount: 1,
+    },
+    {
+      id: 'randomID_4',
+      title: 'Samsung Galaxy S7',
+      price: '12000',
+      img: 'https://images2.imgbox.com/2e/7c/yFsJ4Zkb_o.png',
+      amount: 1,
+    },
+  ];
+  export default cartItems;

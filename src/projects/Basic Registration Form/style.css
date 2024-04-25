@@ -1,0 +1,21 @@
+.div{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 20px);
+    margin: 0px;
+}
+.form{
+    display: block;
+    background-color: rgb(0, 150, 100);
+    padding: 10px;
+    border: solid 10px gainsboro;
+    border-radius: 5%;
+}
+.input {
+    margin: 10px;
+}
+
+.attention {
+    border: solid 2px red;
+}
